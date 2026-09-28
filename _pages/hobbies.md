@@ -20,6 +20,7 @@ nav_order: 6
           width="2400"
           height="841"
           loading="lazy"
+          decoding="async"
         >
       </figure>
       <p>
@@ -37,6 +38,7 @@ nav_order: 6
           width="2400"
           height="643"
           loading="lazy"
+          decoding="async"
         >
       </figure>
       <p>
@@ -54,6 +56,7 @@ nav_order: 6
           width="2400"
           height="800"
           loading="lazy"
+          decoding="async"
         >
       </figure>
       <p>

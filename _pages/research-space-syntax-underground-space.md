@@ -70,20 +70,25 @@ nav: false
     <figure class="research-detail-figure research-detail-figure-wide">
       <h3><span>01</span> Pedestrian Flow and Spatial Configuration</h3>
       <img
-        src="{{ '/assets/img/research/space-syntax/pedestrian-flow-spatial-configuration.png' | relative_url }}"
+        src="{{ '/assets/img/research/space-syntax/pedestrian-flow-spatial-configuration.webp' | relative_url }}"
         alt="Entrance pedestrian-flow survey compared with Space Syntax Integration and Choice results around Jing'an Temple Metro Station"
         width="7680"
         height="4320"
+        loading="eager"
+        fetchpriority="high"
+        decoding="async"
       >
     </figure>
 
     <figure class="research-detail-figure research-detail-figure-wide">
       <h3><span>02</span> Agent-Based Simulation and Functional Zoning</h3>
       <img
-        src="{{ '/assets/img/research/space-syntax/agent-simulation-functional-zoning.png' | relative_url }}"
+        src="{{ '/assets/img/research/space-syntax/agent-simulation-functional-zoning.webp' | relative_url }}"
         alt="Agent-based movement simulations and functional zoning analysis of Jiuguang Department Store's underground commercial space"
         width="7680"
         height="4320"
+        loading="lazy"
+        decoding="async"
       >
     </figure>
 

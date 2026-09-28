@@ -65,10 +65,13 @@ nav: false
 
     <figure class="research-detail-figure research-detail-figure-primary">
       <img
-        src="{{ '/assets/img/research/ems-decision-support/synthetic-demand-prediction-platform.png' | relative_url }}"
+        src="{{ '/assets/img/research/ems-decision-support/synthetic-demand-prediction-platform.webp' | relative_url }}"
         alt="Illustrative emergency-call demand prediction interface using synthetic data"
         width="1619"
         height="971"
+        loading="eager"
+        fetchpriority="high"
+        decoding="async"
       >
       <p>Illustrative demo of the emergency-call demand prediction module using synthetic data.</p>
     </figure>

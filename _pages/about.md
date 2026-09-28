@@ -9,7 +9,20 @@ nav_order: 1
 <div class="academic-home">
   <div class="profile-layout">
     <aside class="profile-summary">
-      {% include figure.liquid loading="eager" path="assets/img/tingjia-xu-profile-shanghai.jpg" class="profile-portrait" sizes="(min-width: 901px) 235px, (min-width: 521px) 235px, 70vw" alt="Portrait of Tingjia Xu" cache_bust=true %}
+      <figure>
+        <picture>
+          <img
+            src="{{ '/assets/img/tingjia-xu-profile-shanghai.webp' | relative_url }}"
+            class="profile-portrait"
+            width="1254"
+            height="1254"
+            alt="Portrait of Tingjia Xu"
+            loading="eager"
+            fetchpriority="high"
+            decoding="async"
+          >
+        </picture>
+      </figure>
       <div class="profile-text">
         <div class="profile-identity">
           <h1 id="profile-name">Tingjia Xu</h1>

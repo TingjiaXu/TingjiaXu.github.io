@@ -39,7 +39,7 @@ nav_order: 4
         <div class="handbook-top-grid">
           <figure class="handbook-publication-image">
             <img
-              src="{{ '/assets/img/projects/health-community-handbook/public-edition.png' | relative_url }}"
+              src="{{ '/assets/img/projects/health-community-handbook/public-edition.webp' | relative_url }}"
               alt="Printed public edition of the handbook"
               width="1119"
               height="1086"
@@ -50,10 +50,10 @@ nav_order: 4
           </figure>
           <figure class="handbook-elements">
             <img
-              src="{{ '/assets/img/projects/health-community-handbook/five-spatial-elements.png' | relative_url }}"
+              src="{{ '/assets/img/projects/health-community-handbook/five-spatial-elements.webp' | relative_url }}"
               alt="Five spatial elements of the handbook: streets, mobility, squares, greening, and buildings"
-              width="6288"
-              height="920"
+              width="3200"
+              height="468"
               loading="lazy"
               decoding="async"
             >
@@ -64,7 +64,7 @@ nav_order: 4
         <div class="handbook-explainer-grid">
           <figure>
             <img
-              src="{{ '/assets/img/projects/health-community-handbook/design-strategy.png' | relative_url }}"
+              src="{{ '/assets/img/projects/health-community-handbook/design-strategy.webp' | relative_url }}"
               alt="Handbook design strategy page"
               width="1450"
               height="1085"
@@ -75,7 +75,7 @@ nav_order: 4
           </figure>
           <figure>
             <img
-              src="{{ '/assets/img/projects/health-community-handbook/international-cases.png' | relative_url }}"
+              src="{{ '/assets/img/projects/health-community-handbook/international-cases.webp' | relative_url }}"
               alt="Handbook international cases page"
               width="1448"
               height="1086"
@@ -165,10 +165,10 @@ nav_order: 4
       </div>
       <figure class="design-project-visual">
         <img
-          src="{{ '/assets/img/projects/selected-design-work/health-plug-ins-livable-mountain-city.png' | relative_url }}"
+          src="{{ '/assets/img/projects/selected-design-work/health-plug-ins-livable-mountain-city.webp' | relative_url }}"
           alt="Selected boards from Health Plug-ins for a Livable Mountain City"
-          width="5323"
-          height="1338"
+          width="3200"
+          height="804"
           loading="lazy"
           decoding="async"
         >
@@ -201,10 +201,10 @@ nav_order: 4
       </div>
       <figure class="design-project-visual">
         <img
-          src="{{ '/assets/img/projects/selected-design-work/active-healthy-community-for-all.png' | relative_url }}"
+          src="{{ '/assets/img/projects/selected-design-work/active-healthy-community-for-all.webp' | relative_url }}"
           alt="Selected boards from Active Healthy Community for all"
-          width="4092"
-          height="1039"
+          width="3200"
+          height="813"
           loading="lazy"
           decoding="async"
         >

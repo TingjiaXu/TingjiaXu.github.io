@@ -71,16 +71,21 @@ nav: false
         alt="Comparison of cycling behavior studies across demand, street-segment volume, and route-choice scales"
         width="1883"
         height="907"
+        loading="eager"
+        fetchpriority="high"
+        decoding="async"
       >
     </figure>
 
     <figure class="research-detail-figure research-detail-figure-narrow">
       <h3><span>02</span> How were route-choice sets constructed?</h3>
       <img
-        src="{{ '/assets/img/research/cycling-route-choice/route-choice-set-construction.png' | relative_url }}"
+        src="{{ '/assets/img/research/cycling-route-choice/route-choice-set-construction.webp' | relative_url }}"
         alt="Data-driven route-choice set construction using previously observed routes within the same grid-based origin–destination pair"
         width="1648"
         height="1905"
+        loading="lazy"
+        decoding="async"
       >
       <p>
         Observed routes previously travelled within each grid-based OD pair were used as alternatives. For each trip, the travelled route was coded
@@ -91,10 +96,12 @@ nav: false
     <figure class="research-detail-figure research-detail-figure-wide">
       <h3><span>03</span> How do route preferences vary within a day?</h3>
       <img
-        src="{{ '/assets/img/research/cycling-route-choice/within-day-route-preferences.png' | relative_url }}"
+        src="{{ '/assets/img/research/cycling-route-choice/within-day-route-preferences.webp' | relative_url }}"
         alt="Illustration of time-specific cycling route preferences across morning peak, off-peak daytime, evening peak, and nighttime"
         width="1773"
         height="965"
+        loading="lazy"
+        decoding="async"
       >
       <p>
         The four-period comparison highlights a shift from stronger transport-efficiency considerations during peak periods towards greater greenery

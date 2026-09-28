@@ -38,10 +38,13 @@ nav_order: 2
       </div>
       <figure class="research-row-visual research-row-visual-animated">
         <img
-          src="{{ '/assets/img/research/four-period-gif.gif' | relative_url }}"
+          src="{{ '/assets/img/research/four-period-gif.webp' | relative_url }}"
           alt="Animated four-period visualization of cycling route-choice patterns"
-          width="3508"
-          height="2270"
+          width="2500"
+          height="1618"
+          loading="eager"
+          fetchpriority="high"
+          decoding="async"
         >
       </figure>
       <p class="research-output-line">
@@ -79,10 +82,12 @@ nav_order: 2
       </div>
       <figure class="research-row-visual research-row-visual-static">
         <img
-          src="{{ '/assets/img/research/heat-adjusted-health-benefits.png' | relative_url }}"
+          src="{{ '/assets/img/research/heat-adjusted-health-benefits.webp' | relative_url }}"
           alt="Spatial maps of cycling health benefits, heat-health impacts, and the heat-adjusted cycling benefit index across Shanghai"
-          width="2063"
-          height="1485"
+          width="1600"
+          height="1011"
+          loading="lazy"
+          decoding="async"
         >
       </figure>
       <p class="research-output-line">Equal-Contribution Manuscript · Patent Application</p>
@@ -113,10 +118,12 @@ nav_order: 2
       </div>
       <figure class="research-row-visual research-row-visual-static">
         <img
-          src="{{ '/assets/img/research/ems-decision-support.png' | relative_url }}"
+          src="{{ '/assets/img/research/ems-decision-support.webp' | relative_url }}"
           alt="English emergency call volume prediction platform using synthetic data"
-          width="1619"
-          height="971"
+          width="1600"
+          height="960"
+          loading="lazy"
+          decoding="async"
         >
       </figure>
     </article>
@@ -148,10 +155,12 @@ nav_order: 2
       </div>
       <figure class="research-row-visual research-row-visual-static">
         <img
-          src="{{ '/assets/img/research/space-syntax-composite.png' | relative_url }}"
+          src="{{ '/assets/img/research/space-syntax-composite.webp' | relative_url }}"
           alt="Composite of movement simulation, visibility analysis, and functional zoning for an urban underground space"
           width="1583"
           height="1000"
+          loading="lazy"
+          decoding="async"
         >
       </figure>
       <p class="research-output-line">ACSP 2025 Presentation</p>

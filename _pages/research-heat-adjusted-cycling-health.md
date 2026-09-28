@@ -63,10 +63,13 @@ nav: false
 
     <figure class="research-detail-figure research-detail-figure-primary">
       <img
-        src="{{ '/assets/img/research/heat-adjusted-cycling-health/chb-hhi-hcbi-triptych.png' | relative_url }}"
+        src="{{ '/assets/img/research/heat-adjusted-cycling-health/chb-hhi-hcbi-triptych.webp' | relative_url }}"
         alt="Triptych maps of cycling health benefits, heat-exposure health impacts, and the integrated heat-adjusted cycling health benefit index across central Shanghai"
         width="2001"
         height="694"
+        loading="eager"
+        fetchpriority="high"
+        decoding="async"
       >
       <p>
         The three maps show cycling health benefits (CHB), heat-exposure health impacts (HHI), and their integrated net effect (HCBI) at 100 m
