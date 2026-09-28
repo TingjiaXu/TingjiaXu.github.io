@@ -1,0 +1,2 @@
+# The homepage profile row is managed in _data/profile_links.yml.
+# Keep this file free of example identities so jekyll-socials cannot expose template accounts elsewhere.

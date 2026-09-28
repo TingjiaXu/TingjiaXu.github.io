@@ -1,0 +1,11 @@
+# Homepage profile links.
+- label: Email
+  short_label: Email
+  icon: fa-solid fa-envelope
+  url: mailto:mirandaaa519@gmail.com
+
+- label: Curriculum Vitae
+  short_label: CV
+  icon: ai ai-cv
+  url: /assets/pdf/tingjia-xu-cv.pdf
+  internal: true
