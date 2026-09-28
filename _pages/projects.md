@@ -43,7 +43,8 @@ nav_order: 4
               alt="Printed public edition of the handbook"
               width="1119"
               height="1086"
-              loading="lazy"
+              loading="eager"
+              fetchpriority="high"
               decoding="async"
             >
             <figcaption>Printed handbook</figcaption>
@@ -54,7 +55,7 @@ nav_order: 4
               alt="Five spatial elements of the handbook: streets, mobility, squares, greening, and buildings"
               width="3200"
               height="468"
-              loading="lazy"
+              loading="eager"
               decoding="async"
             >
             <figcaption>Five Spatial Elements</figcaption>

@@ -1546,15 +1546,9 @@ body:has(.projects-page) .post-header .post-description {
 
 .projects-entry-handbook .projects-entry-heading h3 {
   color: var(--global-theme-color);
-  font-size: clamp(1.6rem, 2.5vw, 1.72rem);
+  font-size: clamp(1.42rem, 2.15vw, 1.55rem);
   font-weight: 700;
   line-height: 1.1;
-}
-
-@media (min-width: 761px) {
-  .projects-entry-handbook .projects-entry-heading h3 {
-    white-space: nowrap;
-  }
 }
 
 .projects-entry-meta {
