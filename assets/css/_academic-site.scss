@@ -536,9 +536,22 @@ body:has(.hobbies-page) .post-description {
   line-height: 1.6;
 }
 
+.research-projects {
+  margin-top: clamp(2.6rem, 4vw, 3.35rem);
+}
+
+.research-primary-section-title {
+  margin: 0;
+  color: var(--global-theme-color);
+  font-size: clamp(1.8rem, 3vw, 2rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.2;
+}
+
 .research-featured-list {
   max-width: 68rem;
-  margin-top: clamp(1.7rem, 3.2vw, 2.4rem);
+  margin-top: 0.85rem;
   border-top: 1px solid var(--global-divider-color);
 }
 
@@ -746,6 +759,17 @@ body:has(.hobbies-page) .post-description {
 .other-research {
   max-width: 58rem;
   margin-top: clamp(2.8rem, 5vw, 4.2rem);
+}
+
+.research-publications {
+  max-width: 58rem;
+  margin-top: clamp(3.2rem, 6vw, 5rem);
+  scroll-margin-top: 5rem;
+}
+
+.research-publications .research-publication-list {
+  margin-top: 0.85rem;
+  counter-reset: research-publication;
 }
 
 .other-research > h2 {
@@ -1076,6 +1100,17 @@ body:has(.research-detail-page) #back-to-top {
   border-radius: 0.25rem;
   object-fit: contain;
   filter: none;
+}
+
+.research-handbook-composite {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 5.15fr);
+  gap: clamp(0.65rem, 1.5vw, 0.85rem);
+  align-items: end;
+}
+
+.research-handbook-composite img {
+  width: 100%;
 }
 
 .research-detail-figure-wide img {
@@ -1938,6 +1973,14 @@ body:has(.projects-page) .post-header .post-description {
   .research-detail-figure h3 {
     grid-template-columns: 2.6rem minmax(0, 1fr);
     gap: 0.55rem;
+  }
+
+  .research-handbook-composite {
+    grid-template-columns: 1fr;
+  }
+
+  .research-handbook-publication {
+    width: min(58%, 14rem);
   }
 
   .conference-list > li {

@@ -17,8 +17,7 @@ Overall visual direction:
 
 - Home
 - Research
-- Publications
-- Projects
+- Design
 - Activities
 - Hobbies
 
@@ -75,16 +74,20 @@ Milestone 2 is approved and locked.
 
 Research page structure:
 
-> Selected Research Experience
+> Research
 
-Publications and Conferences were moved to the standalone Publications page during Milestone 4. The Research content itself was not redesigned as part
-of Milestone 4.
+- Research Projects
+  - featured cards 01–05
+  - Other Projects
+- Publications
 
-Research lines:
+Featured card order:
 
-- 01 Travel Behavior and the Built Environment
-- 02 Urban Health and Livability
-- 03 Spatial Analytics and Decision Support
+- 01 Cycling Route Choice
+- 02 Heat-Adjusted Health Benefits
+- 03 EMS
+- 04 Space Syntax
+- 05 Healthy Community Regeneration
 
 Research item layout:
 
@@ -127,15 +130,7 @@ Includes the four-period animated visual.
 
 ## Publications
 
-Milestone 4 is complete and locked.
-
-Publications is a standalone top-level page with three internal categories:
-
-- Manuscripts Under Review
-- Peer-Reviewed Publications
-- Working Papers
-
-Conferences remain a compact list below the publication categories.
+Publications is the second primary section on the Research page and uses one continuous academic bibliography list without internal categories.
 
 ## Activities and Hobbies
 
@@ -144,17 +139,16 @@ Milestone 4 is complete and locked.
 - Activities uses the approved wording, emphasis, editorial text width, and image alignment.
 - Hobbies uses the approved Travel, Food, and Music wording and image layouts.
 
-## Projects Overview
+## Design Overview
 
 Milestone 3 is complete and locked.
 
-Projects page rules:
+Design page rules:
 
-- use a compact, selected-project presentation rather than the Research page structure
-- organize the page into `Selected Applied Projects` and `Selected Design Work`
-- Design is no longer a standalone primary-navigation section
+- use a compact, selected-design-work presentation rather than the Research page structure
+- retain only the `Selected Design Work` section
+- Design is a standalone primary-navigation section
 - use the approved content, wording, emphasis, years, awards, section order, captions, and link labels from `Projects_and_Design_Website_Copy_Final_v2.docx`
-- Applied Projects include the handbook, AED assessment, and large-scale urban-development database
 - Selected Design Work includes `Health Plug-ins for a Livable Mountain City` and `Active Healthy Community for all`
 - use original supplied images and PDFs; do not extract lower-resolution website images from the Word file when originals are available
 - do not use Research-style thematic numbering or sticky secondary navigation
@@ -167,7 +161,7 @@ Projects page rules:
 | --------- | ---------------------------------------------- | ----------------- |
 | M1        | Global Style + Home                            | APPROVED / LOCKED |
 | M2        | Research Overview                              | APPROVED / LOCKED |
-| M3        | Projects Page                                  | COMPLETE / LOCKED |
+| M3        | Design Page                                    | COMPLETE / LOCKED |
 | M4        | Activities, Hobbies, Publications + Navigation | COMPLETE / LOCKED |
 
 Do not redesign or refactor locked pages unless explicitly requested.
@@ -178,11 +172,11 @@ Milestone 4 is **COMPLETE / LOCKED**.
 
 Final scope:
 
-- standalone Publications page
+- Publications consolidated into the Research page
 - Activities page
 - Hobbies page
-- final top-level navigation
-- approved minor Publications and Projects refinements
+- final top-level navigation: Home / Research / Design / Activities / Hobbies
+- approved minor Publications and Design refinements
 
 Research redesign is **not** part of Milestone 4.
 
