@@ -85,9 +85,9 @@ Featured card order:
 
 - 01 Cycling Route Choice
 - 02 Heat-Adjusted Health Benefits
-- 03 EMS
-- 04 Space Syntax
-- 05 Healthy Community Regeneration
+- 03 Handbook for Health-Oriented Community Regeneration
+- 04 EMS
+- 05 Space Syntax
 
 Research item layout:
 
