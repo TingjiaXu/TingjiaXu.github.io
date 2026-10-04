@@ -41,9 +41,10 @@ nav: false
     <h2 id="research-overview-title">Overview</h2>
     <p>
       This project translated evidence on healthy community environments into an actionable framework for community public-space regeneration.
-      Through literature synthesis, the team developed a four-pathway health framework and connected it to five spatial domains—streets, mobility,
-      greening, squares, and buildings. The framework was then translated into practical regeneration strategies and compiled into two handbook
-      editions: a full design handbook and a public-facing edition.
+      Through literature synthesis, the team developed a four-pathway health framework focused on
+      <span class="selective-underline">improving the physical environment, promoting physical activity, integrating nature-based design, and fostering social cohesion</span>,
+      and connected it to five spatial domains—<span class="selective-underline">streets, mobility, greening, squares, and buildings</span>. The framework was then
+      translated into practical regeneration strategies and compiled into two handbook editions: a full design handbook and a public-facing edition.
     </p>
   </section>
 
