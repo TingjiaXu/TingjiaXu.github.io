@@ -97,8 +97,46 @@ nav_order: 2
     </article>
 
     <article class="research-row research-row-linked">
-      <div class="research-row-meta" aria-label="EMS project metadata">
+      <div class="research-row-meta" aria-label="Healthy community regeneration project metadata">
         <span class="research-index">03</span>
+        <p class="research-type">National Student Innovation Project</p>
+        <p>2022–2023</p>
+        <p>Project Lead</p>
+      </div>
+      <div class="research-row-content">
+        <h2>
+          <a class="research-detail-link" href="{{ '/research/healthy-community-regeneration/' | relative_url }}"
+            >Handbook for Health-Oriented Community Regeneration</a
+          >
+          <span class="research-row-arrow" aria-hidden="true">→</span>
+        </h2>
+        <p class="research-description">
+          Synthesizing evidence on healthy community environments into a four-pathway health framework and translating it into regeneration
+          strategies across five spatial domains.
+        </p>
+        <ul class="research-tags" aria-label="Methods and focus areas">
+          <li>Healthy Community</li>
+          <li>Evidence Synthesis</li>
+          <li>Planning Framework</li>
+          <li>Design Translation</li>
+        </ul>
+      </div>
+      <figure class="research-row-visual research-row-visual-static">
+        <img
+          src="{{ '/assets/img/research/healthy-community-regeneration/street-cover.webp' | relative_url }}"
+          alt="Red handbook cover for the street module with an axonometric street illustration"
+          width="1600"
+          height="1054"
+          loading="lazy"
+          decoding="async"
+        >
+      </figure>
+      <p class="research-output-line">Two Handbook Editions</p>
+    </article>
+
+    <article class="research-row research-row-linked">
+      <div class="research-row-meta" aria-label="EMS project metadata">
+        <span class="research-index">04</span>
         <p class="research-type">Research Commercialization Project</p>
         <p>2026–Present</p>
         <p>Main Researcher</p>
@@ -133,7 +171,7 @@ nav_order: 2
 
     <article class="research-row research-row-linked">
       <div class="research-row-meta" aria-label="Space syntax project metadata">
-        <span class="research-index">04</span>
+        <span class="research-index">05</span>
         <p class="research-type">Graduate Course Project</p>
         <p>2024–2025</p>
         <p>Team Lead</p>
@@ -167,44 +205,6 @@ nav_order: 2
         >
       </figure>
       <p class="research-output-line">ACSP 2025 Presentation</p>
-    </article>
-
-    <article class="research-row research-row-linked">
-      <div class="research-row-meta" aria-label="Healthy community regeneration project metadata">
-        <span class="research-index">05</span>
-        <p class="research-type">National Student Innovation Project</p>
-        <p>2022–2023</p>
-        <p>Project Lead</p>
-      </div>
-      <div class="research-row-content">
-        <h2>
-          <a class="research-detail-link" href="{{ '/research/healthy-community-regeneration/' | relative_url }}"
-            >Health-Oriented Community Public-Space Regeneration</a
-          >
-          <span class="research-row-arrow" aria-hidden="true">→</span>
-        </h2>
-        <p class="research-description">
-          Synthesizing evidence on healthy community environments into a four-pathway health framework and translating it into regeneration
-          strategies across five spatial domains.
-        </p>
-        <ul class="research-tags" aria-label="Methods and focus areas">
-          <li>Healthy Community</li>
-          <li>Evidence Synthesis</li>
-          <li>Planning Framework</li>
-          <li>Design Translation</li>
-        </ul>
-      </div>
-      <figure class="research-row-visual research-row-visual-static">
-        <img
-          src="{{ '/assets/img/research/healthy-community-regeneration/street-cover.webp' | relative_url }}"
-          alt="Red handbook cover for the street module with an axonometric street illustration"
-          width="1600"
-          height="1054"
-          loading="lazy"
-          decoding="async"
-        >
-      </figure>
-      <p class="research-output-line">Two Handbook Editions</p>
     </article>
 
     </div>

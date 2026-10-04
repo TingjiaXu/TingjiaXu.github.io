@@ -31,20 +31,21 @@ nav_order: 5
       </figure>
     </section>
 
-    <section class="activity-entry" aria-labelledby="international-development-title">
-      <h2 id="international-development-title">International Development &amp; Global Engagement</h2>
-      <p class="activity-meta">Selected Talks &amp; Outreach Events</p>
+    <section class="activity-entry" aria-labelledby="community-garden-practice-title">
+      <h2 id="community-garden-practice-title">Participatory Community Garden Practice &amp; Resident-Led Planning</h2>
+      <p class="activity-meta">Project Lead · Tongji University Key Summer Social Practice Project · 2024</p>
       <p class="activity-description">
-        International development is a <span class="activity-body-accent">long-term interest</span> of mine. I regularly attend talks hosted by
-        international organizations to understand how urban and infrastructure <span class="activity-body-accent">challenges are addressed globally</span>
-        and to connect urban research with development practice.
+        Led a <span class="activity-body-accent">participatory community-planning</span> initiative across
+        <span class="activity-body-accent">38 residential communities</span> in Shanghai. Worked with local residents to develop community-garden
+        proposals. Drawing on the practice, developed a <span class="activity-body-accent">resident-led planning toolkit</span> for community leaders
+        to support collective action, and long-term stewardship, and translated it into a <span class="activity-body-accent">printed handbook</span>.
       </p>
       <figure class="activity-visual">
         <img
-          src="{{ '/assets/img/activities/international-development.webp' | relative_url }}"
-          alt="International organization outreach events and public speaking activities"
-          width="2105"
-          height="704"
+          src="{{ '/assets/img/activities/community-garden-practice.webp' | relative_url }}"
+          alt="Printed resident-led planning toolkit alongside community garden practice with children and facilitators"
+          width="2461"
+          height="811"
           loading="lazy"
           decoding="async"
         >
@@ -67,6 +68,26 @@ nav_order: 5
           alt="Emergency medical services fieldwork and innovation competition presentation"
           width="2400"
           height="872"
+          loading="lazy"
+          decoding="async"
+        >
+      </figure>
+    </section>
+
+    <section class="activity-entry" aria-labelledby="international-development-title">
+      <h2 id="international-development-title">International Development &amp; Global Engagement</h2>
+      <p class="activity-meta">Selected Talks &amp; Outreach Events</p>
+      <p class="activity-description">
+        International development is a <span class="activity-body-accent">long-term interest</span> of mine. I regularly attend talks hosted by
+        international organizations to understand how urban and infrastructure <span class="activity-body-accent">challenges are addressed globally</span>
+        and to connect urban research with development practice.
+      </p>
+      <figure class="activity-visual">
+        <img
+          src="{{ '/assets/img/activities/international-development.webp' | relative_url }}"
+          alt="International organization outreach events and public speaking activities"
+          width="2105"
+          height="704"
           loading="lazy"
           decoding="async"
         >
